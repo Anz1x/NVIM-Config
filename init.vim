@@ -1,3 +1,5 @@
+" My nvim config and setup
+
 set number
 " source ~/AppData/Local/nvim/vim-plug/plugins.vim
 
